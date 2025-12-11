@@ -1,5 +1,4 @@
 #  Ready-made README.md 
-
 ## 🌙 NightSight Enhancer
 
 A machine learning–powered tool designed to enhance low-light images using advanced processing, feature extraction, and object detection pipelines.
