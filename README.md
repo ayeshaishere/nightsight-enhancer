@@ -1,4 +1,4 @@
-#  **Ready-made README.md **
+#  Ready-made README.md 
 
 ## 🌙 NightSight Enhancer
 
