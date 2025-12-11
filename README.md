@@ -72,8 +72,7 @@ npm run build
 2. Choose processing pipeline
 3. Run enhancement
 4. Run object detection
-5. Compare pipelines
-6. Export output
+5. Export output
 
 ---
 
